@@ -1,5 +1,6 @@
 tri-engine<br>
 
+all dev happening over here ftm https://github.com/TrvsF/g-sim<br>
 an attempt to learn from & better POGame https://github.com/TrvsF/POGame<br>
 
 made with SDL2 & built with cmake<br>
